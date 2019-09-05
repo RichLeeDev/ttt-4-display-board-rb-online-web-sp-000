@@ -5,10 +5,10 @@
 
 
 def display_board(rows)
-  puts "   |   |   "
+  puts " #{rows[]}  | #{rows[]}  | #{rows[]}  "
   puts "-----------"
-  puts "   |   |   "
+  puts " #{rows[]}  | #{rows[]}  | #{rows[]}  "
   puts "-----------"
-  puts "   |   |   "
+  puts " #{rows[]}  | #{rows[]}  | #{rows[]}  "
 end
 
